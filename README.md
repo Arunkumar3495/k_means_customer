@@ -1,0 +1,2 @@
+# k_means_customer
+customer_segment_kmeans
